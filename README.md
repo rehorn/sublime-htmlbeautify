@@ -1,7 +1,12 @@
 # Sublime HTMLBeautify
 
-# NOTICE: This is Sublime HTMLPrettify Window Version
+# QUOTE PROJECT:
+HTMLPrettify
 http://github.com/victorporof/Sublime-HTMLPrettify
+
+not work in my working windows xp, node0.6.6
+so I try to modify to adapt window running evn.
+Sublime HTMLBeautify is just tested at windows xp, node0.6.6 & unbuntu
 
 # HTML, CSS and Javascript code formatter for Sublime Text editor via node.js
 #### [Sublime Text 2](http://www.sublimetext.com/2)
