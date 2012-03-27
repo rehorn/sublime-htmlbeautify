@@ -1,3 +1,8 @@
+# Sublime HTMLBeautify
+
+# NOTICE: This is Sublime HTMLPrettify Window Version
+http://github.com/victorporof/Sublime-HTMLPrettify
+
 # HTML, CSS and Javascript code formatter for Sublime Text editor via node.js
 #### [Sublime Text 2](http://www.sublimetext.com/2)
 #### [JSBeautifier](http://jsbeautifier.org/)
