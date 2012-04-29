@@ -43,5 +43,5 @@ class HtmlbeautifyCommand(sublime_plugin.TextCommand):
       html = self.execCmd(strCmd)
 
     if len(html) > 0:
-      self.view.replace(edit, sublime.Region(0, self.view.size()), html)
+      self.view.replace(edit, sublime.Region(0, self.view.size()), html.decode('utf-8'))
      
